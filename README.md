@@ -1,6 +1,6 @@
 # CountdownDaysBot — countdown timer for Telegram
 
-**Try it:** [@CountdownDaysBot](https://t.me/CountdownDaysBot) · [tg.zovo.one/bots/countdown/](https://tg.zovo.one/bots/countdown/)
+**Try it:** [@CountdownDaysBot](https://t.me/CountdownDaysBot?start=github) · [tg.zovo.one/bots/countdown/](https://tg.zovo.one/bots/countdown/)
 
 ## What it does
 
