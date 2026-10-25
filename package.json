@@ -1,5 +1,6 @@
 {
   "name": "countdown-bot",
+  "repository": {"type": "git", "url": "theluckystrike/telegram-countdown-bot.git"},
   "private": true,
   "type": "module",
   "scripts": {
