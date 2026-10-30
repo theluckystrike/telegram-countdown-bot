@@ -2,6 +2,12 @@
 
 **Try it:** [@CountdownDaysBot](https://t.me/CountdownDaysBot?start=github) · [tg.zovo.one/bots/countdown/](https://tg.zovo.one/bots/countdown/)
 
+## Free Advent calendar for groups
+
+Send `/advent` in a group as an admin. From 1 to 24 December the bot posts one door every morning at 08:00 in the group's time zone, and anyone in the group can open it. There are 24 doors in 11 languages. It is free. `/advent off` stops it.
+
+[Start with @CountdownDaysBot](https://t.me/CountdownDaysBot?start=github)
+
 ## What it does
 
 CountdownDaysBot posts a live countdown card for a date that matters, in a group or private chat. `/countdown 2026-12-25 Christmas` posts a card (`🎯 Christmas — 113 days`) that an hourly cron keeps up to date, editing it only when the displayed number actually changes; when it hits zero the card becomes `🎉 It's time: Christmas!`. `/countdowns` lists a chat's active countdowns, `/stop 3` stops one, and `/ctz +2` sets the chat's UTC offset used when a countdown omits an explicit time. Free tier: 2 active countdowns per chat, days-only precision. Pro (one-time 150 ⭐ per chat) adds unlimited countdowns, a custom emoji prefix, hourly precision once a countdown is under 2 days out, and a "↗️ Share" button. A Mini App (`/app`) lists your active countdowns, ticking live in the browser.
